@@ -20,7 +20,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   events in my life, and share some of my side projects with the world.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://ashe.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
+twitter_username: f39phs
 github_username:  seashe
 
 # Build settings
